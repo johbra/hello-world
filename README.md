@@ -1,2 +1,2 @@
 # hello-world
-nur zum üben
+In the editor, write a bit about yourself.
